@@ -8,7 +8,7 @@ const nota = ref(75);
         <h2>v-if / v-else-if / v-else</h2>
         <p>
             Estas directivas renderizan un bloque <strong>solo si</strong> se cumple
-            la condición. Si no se cumple, el elemento
+            la condición. Si no se cumple, el elemento.
             <strong>no existe en el DOM</strong>. Deben estar en elementos
             consecutivos (hermanos).
         </p>
